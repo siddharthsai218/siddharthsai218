@@ -1,6 +1,6 @@
 # Hi, I'm Sid 👋
 
-CS undergrad at Amrita Vishwa Vidyapeetham · [@amfoss](https://github.com/amfoss)
+CS undergrad at Amrita Vishwa Vidyapeetham · Member at [@amfoss](https://github.com/amfoss)
 
 I build things across the stack and spend a lot of time where software actually breaks: logs, edge cases, and race conditions.
 
